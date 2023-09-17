@@ -1,3 +1,4 @@
 # apnacollege-demo
 this is my first college repository
-author-swathi
+author-swathi kadamanchi
+
